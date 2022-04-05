@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksearch=self.webpackChunksearch||[]).push([[177,179],{177:(e,c,n)=>{n.r(c);const t=document.createElement("DIV");t.appendChild(document.createElement("INPUT")),document.body.appendChild(t)}}]);

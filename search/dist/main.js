@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.createElement("DIV");e.appendChild(document.createElement("INPUT")),document.body.appendChild(e)})();
